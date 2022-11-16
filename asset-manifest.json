@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MutableTuple/RoboFriends/static/css/main.ec57f774.css",
+    "main.js": "/MutableTuple/RoboFriends/static/js/main.2cb6d75a.js",
+    "static/js/787.ebaa048f.chunk.js": "/MutableTuple/RoboFriends/static/js/787.ebaa048f.chunk.js",
+    "index.html": "/MutableTuple/RoboFriends/index.html",
+    "main.ec57f774.css.map": "/MutableTuple/RoboFriends/static/css/main.ec57f774.css.map",
+    "main.2cb6d75a.js.map": "/MutableTuple/RoboFriends/static/js/main.2cb6d75a.js.map",
+    "787.ebaa048f.chunk.js.map": "/MutableTuple/RoboFriends/static/js/787.ebaa048f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec57f774.css",
+    "static/js/main.2cb6d75a.js"
+  ]
+}
